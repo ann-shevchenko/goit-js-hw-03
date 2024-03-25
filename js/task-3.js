@@ -1,5 +1,5 @@
 function filterArray(numbers, value) {
-  let result = [];
+  const result = [];
 
   for (let i = 0; i < numbers.length; i++) {
     let current = numbers[i];
